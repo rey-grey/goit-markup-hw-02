@@ -193,7 +193,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    text-decoration: none;
+    
 }
 
 .logo-span {
@@ -203,6 +203,6 @@ body {
 .footer-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--footer-text-color, #f4f4fd);
-    max-width: 264px;
+    color: #f4f4fd;
+    
 }
