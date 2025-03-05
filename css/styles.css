@@ -18,7 +18,7 @@ body {
     color: #2e2f42;
 }
 .logo-part-footer{
-    color: #f4f4fd;
+    color: #f4f4fd
 }
 
 .nav-link {
@@ -29,11 +29,15 @@ body {
     color: #2e2f42;
     text-decoration: none;
 }
-
-.nav-link:hover,
-.nav-link:focus {
+.contacts-link:hover,
+.contacts-link:focus{
     color: #404bbf;
 }
+
+
+
+
+
 
 .address{
     font-style: normal;
