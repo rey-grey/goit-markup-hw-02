@@ -4,7 +4,7 @@ body {
     background: #fff;
 }
 
-.logo-black {
+.logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -14,8 +14,11 @@ body {
     color: #4d5ae5;
 }
 
-.logo-text {
+.logo-part{
     color: #2e2f42;
+}
+.logo-part-footer{
+    color: #f4f4fd;
 }
 
 .nav-link {
@@ -32,11 +35,13 @@ body {
     color: #404bbf;
 }
 
-
-
-.contacts-list {
-    font-size: 16px;
+.address{
     font-style: normal;
+}
+
+.contacts-link {
+    font-size: 16px;
+   
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -181,27 +186,12 @@ body {
 }
 .footer {
     background-color: #2e2f42;
-   
 }
 
-.footer-logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    
-}
 
-.logo-part-footer {
-    color: #f4f4fd;
-}
-
-.footer-text {
+.footer-text{
     line-height: 1.5;
+    color: #F4F4FD;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
-    
+
 }
